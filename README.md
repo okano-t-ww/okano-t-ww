@@ -13,7 +13,7 @@
   ### Frameworks | Libraries
   [![Frameworks | Libraries](https://skillicons.dev/icons?i=react,materialui,nextjs,tailwind,p5js,opencv,styledcomponents,threejs&perline=10)](https://skillicons.dev)
   ### Platforms
-  [![Platforms](https://skillicons.dev/icons?i=windows,linux,ubuntu,nodejs,unity,docker,arduino&perline=10)](https://skillicons.dev) 
+  [![Platforms](https://skillicons.dev/icons?i=windows,linux,ubuntu,nodejs,unity,vercel,docker,arduino&perline=10)](https://skillicons.dev) 
   ### Cloud
   [![Cloud](https://skillicons.dev/icons?i=aws&perline=10)](https://skillicons.dev)
   ### Database | CI/CD | BuildTool 
